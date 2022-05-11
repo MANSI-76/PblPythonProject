@@ -1,10 +1,10 @@
 # Attendence-management-Using-QR-Code
 
---> In this python project, student attenence will be gene rate using QR code
+--> In this project, for student attenence it will generate QR code
 
---> Firstly import the required libraries that is mentioned in the code.
+--> You need to import the required libraries that is mentioned in the code.
 
---> Now run the code to attend file to itegrate web cam of the device with your code, so that it can scan the QR Code generated.
+--> Then Run the code to attend file to itegrate web cam of the device with your code, so that it can scan the QR Code generated.
 
 --> Now run the genertor file which will generate the QR Code for the name that we will mention in CSV file.
 
